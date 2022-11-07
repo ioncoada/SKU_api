@@ -1,14 +1,12 @@
-#SKU API interview coding task 
+SKU API interview coding task 
 
-#Used tools and frameworks
+#Used tools and frameworks:
+
+Java
 Rest-Assured
-
 Maven repository
-
 JUnit
-
 jackson-databind
-
 
 # Description 
 Maven based testing project that runs HTTP calls to manage Stock Keeping Unit identifiers. Framework is built using rest-assured libraries,junit-jupiter and jackson-databind. 
